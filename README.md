@@ -123,7 +123,7 @@ Each entry contains:
 
 📸 **Screenshots**
 ![Login Page](screenshots/Website_Login_page.png)
-![Register Page](screenshots/Register_page.png)
+![Register Page](screenshots/Register_Page.png)
 ![Dashboard](screenshots/HomePage.png)
 ![Attendence](screenshots/attendance_marking.png)
 
