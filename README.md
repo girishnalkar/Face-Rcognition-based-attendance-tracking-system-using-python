@@ -122,8 +122,10 @@ Each entry contains:
     Girish Nalkar | 2025-07-28 | 09:12:03
 
 📸 **Screenshots**
-![Login Page](screenshots/Screenshot%202025-07-28%20095939.png)
-![Dashboard](screenshots/Screenshot%202025-07-28%20095946.png)
+![Login Page](screenshots/Website_Login_page.png)
+![Register Page](screenshots/Register_page.png)
+![Dashboard](screenshots/HomePage.png)
+![Attendence](screenshots/attendance_marking.png)
 
 🔐 **Notes**
 All user images are stored under /images/
